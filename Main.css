@@ -58,9 +58,9 @@ body {
 }
 
 .ClickButton {
-  width: 100px;
+  width: 10%;
 
-  margin: 40px;
+  margin: 20px;
 
   cursor: pointer;
 }
